@@ -1,4 +1,5 @@
 Upscaling  land  surface  fluxes  through  hyper  resolution  remote  sensing  in  space,  time,  and  the spectrum (Ryu, 2024)
+
 *corresponding author (Email: yryu@snu.ac.kr) 
 
 Data availability for Fig. 3 (Accessed April 10, 2024)
